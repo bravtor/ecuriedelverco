@@ -7,10 +7,8 @@ import Prestations from './module/prestations';
 function App() {
   return (
     <div className="App">
-      <div><Menu /></div>
-      <p>eeeeee</p>
-     <div><Header /></div>
-     <div><Prestations /></div>
+      <p>ffff</p>
+    <img src="./BG.jpeg" alt="Trees" height="200" />
     </div>
   );
 }
