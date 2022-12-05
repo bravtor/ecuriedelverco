@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bravtor/ecuriedelverco.git/static/css/main.4e29281c.css",
+    "main.js": "/bravtor/ecuriedelverco.git/static/js/main.abe48ef6.js",
+    "static/js/787.73db9640.chunk.js": "/bravtor/ecuriedelverco.git/static/js/787.73db9640.chunk.js",
+    "index.html": "/bravtor/ecuriedelverco.git/index.html",
+    "main.4e29281c.css.map": "/bravtor/ecuriedelverco.git/static/css/main.4e29281c.css.map",
+    "main.abe48ef6.js.map": "/bravtor/ecuriedelverco.git/static/js/main.abe48ef6.js.map",
+    "787.73db9640.chunk.js.map": "/bravtor/ecuriedelverco.git/static/js/787.73db9640.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e29281c.css",
+    "static/js/main.abe48ef6.js"
+  ]
+}
