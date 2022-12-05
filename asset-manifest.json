@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ecuriedelverco/static/css/main.05a91ca4.css",
-    "main.js": "/ecuriedelverco/static/js/main.5bf45bd0.js",
+    "main.css": "/ecuriedelverco/static/css/main.41837116.css",
+    "main.js": "/ecuriedelverco/static/js/main.e90ea256.js",
     "static/js/787.73db9640.chunk.js": "/ecuriedelverco/static/js/787.73db9640.chunk.js",
-    "static/media/img5.jpg": "/ecuriedelverco/static/media/img5.ec6e9854e6c185cce034.jpg",
+    "static/media/img500.jpg": "/ecuriedelverco/static/media/img500.92168d30a267ef2a9aef.jpg",
     "index.html": "/ecuriedelverco/index.html",
-    "main.05a91ca4.css.map": "/ecuriedelverco/static/css/main.05a91ca4.css.map",
-    "main.5bf45bd0.js.map": "/ecuriedelverco/static/js/main.5bf45bd0.js.map",
+    "main.41837116.css.map": "/ecuriedelverco/static/css/main.41837116.css.map",
+    "main.e90ea256.js.map": "/ecuriedelverco/static/js/main.e90ea256.js.map",
     "787.73db9640.chunk.js.map": "/ecuriedelverco/static/js/787.73db9640.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.05a91ca4.css",
-    "static/js/main.5bf45bd0.js"
+    "static/css/main.41837116.css",
+    "static/js/main.e90ea256.js"
   ]
 }
