@@ -1,6 +1,6 @@
 
 import React from 'react';
-import img5 from "./Img/img5.jpg"
+import img5 from "./Img/img500.jpg"
 import './App.css';
 import Header from './module/header';
 import Menu from './module/menu';
@@ -8,12 +8,9 @@ import Prestations from './module/prestations';
 
 function App() {
   return (
-    <div className="App">
-      <p>ffff</p>
-      <div>
-      <img src={img5} alt="tutorialswebsite logo"/>
-    </div>
-    </div>
+    <div style={{ backgroundImage: `url(${img5})`, backgroundSize: "cover", width: "auto", height: "100vh"}}>
+   
+  </div>
   );
 }
 
