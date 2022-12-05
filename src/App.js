@@ -7,7 +7,7 @@ import './App.css';
 function App() {
   return (
     <div>
-   <p>ceci est un test pour verifir si cela fonctionne bien mais j espere que oui</p>
+   <p>ceci est un test pour verifir si cela fonctionne bien mais j espere que oui et non</p>
   </div>
   );
 }
