@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bravtor/ecuriedelverco.git/static/css/main.4e29281c.css",
-    "main.js": "/bravtor/ecuriedelverco.git/static/js/main.abe48ef6.js",
-    "static/js/787.73db9640.chunk.js": "/bravtor/ecuriedelverco.git/static/js/787.73db9640.chunk.js",
-    "index.html": "/bravtor/ecuriedelverco.git/index.html",
-    "main.4e29281c.css.map": "/bravtor/ecuriedelverco.git/static/css/main.4e29281c.css.map",
-    "main.abe48ef6.js.map": "/bravtor/ecuriedelverco.git/static/js/main.abe48ef6.js.map",
-    "787.73db9640.chunk.js.map": "/bravtor/ecuriedelverco.git/static/js/787.73db9640.chunk.js.map"
+    "main.css": "/ecuriedelverco/static/css/main.05a91ca4.css",
+    "main.js": "/ecuriedelverco/static/js/main.48980e6e.js",
+    "static/js/787.73db9640.chunk.js": "/ecuriedelverco/static/js/787.73db9640.chunk.js",
+    "index.html": "/ecuriedelverco/index.html",
+    "main.05a91ca4.css.map": "/ecuriedelverco/static/css/main.05a91ca4.css.map",
+    "main.48980e6e.js.map": "/ecuriedelverco/static/js/main.48980e6e.js.map",
+    "787.73db9640.chunk.js.map": "/ecuriedelverco/static/js/787.73db9640.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e29281c.css",
-    "static/js/main.abe48ef6.js"
+    "static/css/main.05a91ca4.css",
+    "static/js/main.48980e6e.js"
   ]
 }
