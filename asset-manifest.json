@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ecuriedelverco/static/css/main.41837116.css",
-    "main.js": "/ecuriedelverco/static/js/main.0bb315f8.js",
+    "main.js": "/ecuriedelverco/static/js/main.17fa1a44.js",
     "static/js/787.73db9640.chunk.js": "/ecuriedelverco/static/js/787.73db9640.chunk.js",
     "index.html": "/ecuriedelverco/index.html",
     "main.41837116.css.map": "/ecuriedelverco/static/css/main.41837116.css.map",
-    "main.0bb315f8.js.map": "/ecuriedelverco/static/js/main.0bb315f8.js.map",
+    "main.17fa1a44.js.map": "/ecuriedelverco/static/js/main.17fa1a44.js.map",
     "787.73db9640.chunk.js.map": "/ecuriedelverco/static/js/787.73db9640.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41837116.css",
-    "static/js/main.0bb315f8.js"
+    "static/js/main.17fa1a44.js"
   ]
 }
